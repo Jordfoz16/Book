@@ -1,0 +1,11 @@
+.container-fluid{
+    background-color: blue;
+}
+
+.container{
+    background-color: palegreen;
+}
+
+.row{
+    background-color: yellow;
+}
