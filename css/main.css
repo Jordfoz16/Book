@@ -1,0 +1,23 @@
+/* Nav-bar */
+.navbar{
+    min-height: 70px;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+.nav-item{
+    padding: 0px 10px;
+}
+
+/* Carousel */
+
+.container{
+    padding-top: 10px;
+}
+
+img{
+    height: 400px;
+    width: 800px;
+}
